@@ -1,0 +1,16 @@
+a:link{
+    color: red;              /*未被点击*/
+    text-decoration: none;  /*去除下划线*/
+}
+
+a:visited{
+    color: green;    /*已被点击*/
+}
+
+a:hover{
+    color: blue;     /*鼠标移动上去*/
+}
+
+a:active{
+    color: blue;
+}

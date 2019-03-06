@@ -1,0 +1,24 @@
+ul li{
+    list-style: armenian;
+}
+
+#tb{
+    border-collapse: collapse;
+    width: 500px;
+}
+
+#tb td, #tb th{
+    border: 1px solid aqua;
+    padding: 5px;
+}
+
+#tb th{
+    text-align: right;
+    background-color: aqua;
+    color: white;
+}
+
+#tb tr.alt td{
+    color: black;
+    background-color: aquamarine;
+}

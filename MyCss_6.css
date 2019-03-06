@@ -1,0 +1,59 @@
+#tb1 td{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#tb2 td{
+    padding: 50px;
+}
+
+#p1{
+    border-style: double;
+    border-width: 10px;
+    border-color: blue;
+}
+
+#p2{
+    border-style: dashed;
+    border-top-style: double;
+    border-bottom-width: 5px;    /*单边框宽度*/
+}
+
+#p3{
+    border-radius: 10px;
+    width: 200px;
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.divclass{
+    color: aquamarine;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    box-shadow: 10px 10px 5px gainsboro;
+}
+
+.mg{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    margin: 50px;   /*外边距*/
+}
+
+.container{
+    margin: 50px;           /*外边距*/
+}
+
+.bd{
+    border-style: dotted;
+}
+
+.pd{
+    padding: 100px;          /*内边距*/
+}
+
+.content{
+    background-color: cornflowerblue;
+}

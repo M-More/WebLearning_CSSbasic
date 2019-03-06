@@ -1,0 +1,11 @@
+#pid a{
+    color: green;           <!-- 标签、派生选择器 -->
+}
+
+#divid{
+    color: blue;            <!-- 标签选择器 -->
+}
+
+.pclass{
+    color: cornflowerblue;  <!-- 类选择器 -->
+}
