@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+
+.div1{
+    width: 70%;
+    height: 100px;
+    background-color: red;
+    margin-left: auto;          /*自适应（两边对等）*/
+    margin-right: auto;
+}
+
+.div2{
+    width: 70%;
+    height: 100px;
+    background-color: blue;
+    position: absolute;         /*自适应（两边对等）*/
+    left: 0px;
+    clear: left;
+}
+
+.div3{
+    width: 70%;
+    height: 100px;
+    background-color: blueviolet;
+    margin-top: 5px;
+    float: right;
+}

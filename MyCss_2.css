@@ -16,3 +16,18 @@ body{
 h6{
     text-indent: 2em;
 }
+
+#p01{
+    width: 200px;
+    line-height: normal;    /*行高*/
+}
+
+#p02{
+    width: 200px;
+    line-height: 200%;
+}
+
+#p03{
+    width: 200px;
+    line-height: 50%;
+}

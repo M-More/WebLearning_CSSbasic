@@ -9,3 +9,15 @@
 .pclass{
     color: cornflowerblue;  <!-- 类选择器 -->
 }
+
+.p1{
+    color: #f591ff;
+}
+
+.p2{
+    font-size: 10px;
+}
+
+.p1.p2{
+    font-style: italic;     <!-- 多类选择器 -->
+}

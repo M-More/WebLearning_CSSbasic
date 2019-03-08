@@ -1,0 +1,28 @@
+#position1{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+}
+
+#position2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: fixed;
+    left: 200px;
+    top: 20px;
+    z-index: 2;
+}
+
+#position3{
+    width: 100px;
+    height: 100px;
+    background-color: #f591ff;
+    position: fixed;
+    left: 250px;
+    top: 70px;
+    z-index: 1;
+}
